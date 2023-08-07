@@ -15,6 +15,7 @@
 		68F7C3482A7FF44B008E3C7C /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F7C3472A7FF44B008E3C7C /* AddView.swift */; };
 		68F7C34B2A7FF857008E3C7C /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F7C34A2A7FF857008E3C7C /* ItemModel.swift */; };
 		68F7C34E2A800AD5008E3C7C /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F7C34D2A800AD5008E3C7C /* ListViewModel.swift */; };
+		68F7C3502A803555008E3C7C /* NoItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F7C34F2A803555008E3C7C /* NoItemsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		68F7C3472A7FF44B008E3C7C /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 		68F7C34A2A7FF857008E3C7C /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
 		68F7C34D2A800AD5008E3C7C /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
+		68F7C34F2A803555008E3C7C /* NoItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoItemsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				68F7C3432A7FE619008E3C7C /* ListView.swift */,
 				68F7C3452A7FE8CC008E3C7C /* ListRowView.swift */,
 				68F7C3472A7FF44B008E3C7C /* AddView.swift */,
+				68F7C34F2A803555008E3C7C /* NoItemsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 				68F7C34E2A800AD5008E3C7C /* ListViewModel.swift in Sources */,
 				68F7C3352A7FE4B7008E3C7C /* todolist_swiftuiApp.swift in Sources */,
 				68F7C3442A7FE619008E3C7C /* ListView.swift in Sources */,
+				68F7C3502A803555008E3C7C /* NoItemsView.swift in Sources */,
 				68F7C3462A7FE8CC008E3C7C /* ListRowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
